@@ -208,3 +208,5 @@ Support & Updates
 • Developer-friendly integration structure
 
 Get for Free - https://themes.kazzylen.com/product/pawapay-for-woocommerce-plugins/
+
+             - https://kazzylen.com/pawapay-for-woocommerce-wp-plugins/
